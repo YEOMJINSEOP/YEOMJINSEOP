@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YEOMJINSEOP
-- 👀 I’m interested in 
+- 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me => yeomjinseop@gmail.com
 
 <!---
