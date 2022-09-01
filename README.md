@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YEOMJINSEOP
 - 👀 I’m interested in JavaScipt and Java
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java Spring
 - 📫 How to reach me => yeomjinseop@gmail.com
 
 <!---
