@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YEOMJINSEOP
-- 👀 I’m interested in Java
+- 👀 I’m interested in JavaScipt and Java
 - 🌱 I’m currently learning Java
 - 📫 How to reach me => yeomjinseop@gmail.com
 
