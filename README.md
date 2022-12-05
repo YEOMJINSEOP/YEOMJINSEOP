@@ -1,4 +1,4 @@
-<h3 align="center"><b>Stack</b></h3>
+<h3 align="center"><b>My Stack</b></h3>
 </br>
 
 <div align="center">
