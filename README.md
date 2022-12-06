@@ -10,7 +10,7 @@
 
 </br></br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YEOMJINSEOP&show_icons=true&theme=cobalt2)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YEOMJINSEOP&show_icons=true&theme=cobalt2) -->
 
 <!---
 YEOMJINSEOP/YEOMJINSEOP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
