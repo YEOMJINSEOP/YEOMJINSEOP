@@ -10,7 +10,7 @@
 
 </br>
 </br>
-<a href="https://10000cow.tistory.com/">Visit My Blog</a>
+<a href="https://10000cow.tistory.com/" style="text-decoration:none, color:white ">Visit My Blog</a>
 </br>
 
 
