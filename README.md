@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <div>
+  
+<h3 align="center"><b>My Blog</b></h3>
+  <a href="https://10000cow.tistory.com/">Click Here</a>
+</br>
 
 </br></br>
 
