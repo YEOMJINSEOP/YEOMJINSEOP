@@ -9,7 +9,7 @@
 <div>
 
 </br>
-<a href="https://10000cow.tistory.com/"><h3 align="center"><b>My Blog</b></h3></a>
+<a href="https://10000cow.tistory.com/">Visit My Blog</a>
 </br>
 
 </br></br>
