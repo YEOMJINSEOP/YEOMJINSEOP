@@ -9,9 +9,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <div>
   
-</br>
-<a href="https://10000cow.tistory.com/">Visit My Blog</a>
-</br>
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact
+
+
 
 <a href="https://10000cow.tistory.com/">Visit My Blog</a>
 </br>
