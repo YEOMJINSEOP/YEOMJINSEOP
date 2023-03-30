@@ -18,7 +18,7 @@
 </div>
 
 <p align="center">
-  <strong>Check out my web project:</strong>
+  <strong>Web Project:</strong>
   <br>
   <a href="https://tayong.net">
     <img src="https://img.shields.io/badge/Tayong.net-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Tayong.net">
