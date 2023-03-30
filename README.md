@@ -1,4 +1,4 @@
-<h2 align="center"><b>My Stack</b></h2>
+<h2 align="center"><b>Stack</b></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-badge&logo=HTML5&logoColor=white" alt="HTML5">
@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 </p>
 
+<h2 align="center"><b>Tech Blog</b></h2>
 <div align="center">
   <a href="https://10000cow.tistory.com/">
     <img src="https://img.shields.io/badge/Visit%20My%20Blog-orange?style=flat-square&logo=blogger&logoColor=white" alt="Visit My Blog">
@@ -18,7 +19,8 @@
 </div>
 
 <p align="center">
-  <strong>Web Project</strong>
+  <h2 align="center"><b>Web Project</b></h2>
+
   <br>
   <a href="https://tayong.net">
     <img src="https://img.shields.io/badge/Tayong.net-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Tayong.net">
