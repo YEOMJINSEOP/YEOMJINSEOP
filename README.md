@@ -21,7 +21,7 @@
 <h2 align="center"><b>Web Project</b></h2>
 <div align="center">
   <a href="https://tayong.net">
-    <img src="https://img.shields.io/badge/타용-lightgrey?style=flat-square&logo=google-chrome&logoColor=orange" alt="타용">
+    <img src="https://img.shields.io/badge/타용-white?style=for-badge&logo=google-chrome&logoColor=orange" alt="타용">
   </a>
 </div>
 
