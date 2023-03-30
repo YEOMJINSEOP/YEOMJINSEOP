@@ -12,9 +12,11 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-badge&logo=amazon-aws&logoColor=white"/>
 
 </br>
-</br>
-<a href="https://10000cow.tistory.com/" style="text-decoration=none">Visit My Blog</a>
-</br>
+<p align="center">
+  <a href="https://10000cow.tistory.com/">
+    <img src="https://img.shields.io/badge/-Visit%20My%20Blog-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Visit My Blog">
+  </a>
+</p>
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YEOMJINSEOP&show_icons=true&theme=cobalt2) -->
