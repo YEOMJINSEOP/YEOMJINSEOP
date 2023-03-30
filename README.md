@@ -18,12 +18,12 @@
   </a>
 </div>
 
-<p align="center">
-  <h2 align="center"><b>Web Project</b></h2>
+<h2 align="center"><b>Web Project</b></h2>
+<div align="center">
   <a href="https://tayong.net">
     <img src="https://img.shields.io/badge/Tayong.net-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Tayong.net">
   </a>
-</p>
+</div>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YEOMJINSEOP&show_icons=true&theme=cobalt2) -->
 
