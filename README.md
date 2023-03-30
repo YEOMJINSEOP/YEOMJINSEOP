@@ -20,8 +20,6 @@
 
 <p align="center">
   <h2 align="center"><b>Web Project</b></h2>
-
-  <br>
   <a href="https://tayong.net">
     <img src="https://img.shields.io/badge/Tayong.net-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Tayong.net">
   </a>
