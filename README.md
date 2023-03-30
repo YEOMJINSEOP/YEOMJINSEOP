@@ -18,8 +18,10 @@
 </div>
 
 <p align="center">
-  <a href="https://10000cow.tistory.com/">
-    <img src="https://img.shields.io/badge/-Visit%20My%20Blog-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Visit My Blog">
+  <strong>Check out my web project:</strong>
+  <br>
+  <a href="https://tayong.net">
+    <img src="https://img.shields.io/badge/Tayong.net-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Tayong.net">
   </a>
 </p>
 
