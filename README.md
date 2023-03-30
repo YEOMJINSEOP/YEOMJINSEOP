@@ -15,11 +15,11 @@
   Check out my web project at <a href="https://tayong.net">https://tayong.net</a>.
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://10000cow.tistory.com/">
-    <img src="https://img.shields.io/badge/-Visit%20My%20Blog-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Visit My Blog">
+    <img src="https://img.shields.io/badge/Visit%20My%20Blog-orange?style=flat-square&logo=blogger&logoColor=white" alt="Visit My Blog">
   </a>
-</p>
+</div>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YEOMJINSEOP&show_icons=true&theme=cobalt2) -->
 
