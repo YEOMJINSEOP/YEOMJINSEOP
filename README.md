@@ -11,12 +11,12 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 </p>
 
-<h2 align="center"><b>Tech Blog</b></h2>
+<!-- <h2 align="center"><b>Tech Blog</b></h2>
 <div align="center">
   <a href="https://10000cow.tistory.com/">
     <img src="https://img.shields.io/badge/Visit%20My%20Blog-orange?style=flat-square&logo=blogger&logoColor=white" alt="Visit My Blog">
   </a>
-</div>
+</div> -->
 
 <h2 align="center"><b>Web Project</b></h2>
 <div align="center">
