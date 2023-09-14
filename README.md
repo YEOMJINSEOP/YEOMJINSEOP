@@ -1,4 +1,4 @@
-<h2 align="center"><b>Stack</b></h2>
+<h2 align="center"><b>Programming Skiils</b></h2>
 
 <h3 align="center"><b>Deep Learning</b></h2>
 <div align="center">
