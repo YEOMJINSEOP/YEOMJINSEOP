@@ -1,6 +1,14 @@
 <h2 align="center"><b>Stack</b></h2>
 
 <p align="center">
+  <h3 align="center"><b>Deep Learning</b></h2>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-badge&logo=Python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-badge&logo=NVIDIA&logoColor=white" alt="CUDA">
+</p>
+
+<p align="center">
+  <h3>Web Application</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-badge&logo=HTML5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-badge&logo=CSS3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=for-badge&logo=javascript&logoColor=white" alt="JavaScript">
@@ -18,12 +26,6 @@
   </a>
 </div> -->
 
-<h2 align="center"><b>Web Project</b></h2>
-<div align="center">
-  <a href="https://tayong.net">
-    <img src="https://img.shields.io/badge/Tayong-white?style=for-badge&logo=google-chrome&logoColor=orange" alt="타용">
-  </a>
-</div>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YEOMJINSEOP&show_icons=true&theme=cobalt2) -->
 
