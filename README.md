@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <h3>Web Application</h3>
+  <h3 align="center">Web Application</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-badge&logo=HTML5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-badge&logo=CSS3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=for-badge&logo=javascript&logoColor=white" alt="JavaScript">
