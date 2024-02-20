@@ -4,7 +4,6 @@
 <div align="center">
   <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-badge&logo=Python&logoColor=white" alt="Python"></span>
   <span><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-badge&logo=PyTorch&logoColor=white" alt="PyTorch"></span>
-  <span><img src="https://img.shields.io/badge/CUDA-76B900?style=for-badge&logo=NVIDIA&logoColor=white" alt="CUDA"></span>
 </div>
 
 <h3 align="center">Web Application</h3>
